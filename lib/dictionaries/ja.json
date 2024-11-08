@@ -1,0 +1,70 @@
+{
+    "Message": {
+        "User created successfully": "ユーザーが正常に作成されました",
+        "Failed to create user": "ユーザーの作成に失敗しました",
+        "Login successful": "ログインに成功しました",
+        "Invalid email or password": "無効なメールアドレスまたはパスワード",
+        "Failed to login": "ログインに失敗しました",
+        "Workspace name is required": "ワークスペース名が必要です",
+        "Workspace created successfully": "ワークスペースが正常に作成されました",
+        "Workspace updated successfully": "ワークスペースが正常に更新されました",
+        "Workspace deleted successfully": "ワークスペースが正常に削除されました",
+        "Failed to create workspace": "ワークスペースの作成に失敗しました",
+        "Failed to update workspace": "ワークスペースの更新に失敗しました",
+        "Failed to delete workspace": "ワークスペースの削除に失敗しました",
+        "Please enter the workspace name": "ワークスペース名を入力してください",
+        "Workspace name does not match": "ワークスペース名が一致しません"
+    },
+    "Common": {
+        "Home": "ホーム",
+        "Logout": "ログアウト",
+        "Sign in": "サインイン",
+        "Register": "登録",
+        "Email": "メール",
+        "Password": "パスワード",
+        "Or": "または",
+        "Sign in with": "サインイン",
+        "Add": "追加",
+        "Update": "更新",
+        "Delete": "削除",
+        "Cancel": "キャンセル",
+        "Share": "共有",
+        "Export": "エクスポート",
+        "Link copied to clipboard": "リンクがクリップボードにコピーされました"
+    },
+    "LoginForm": {
+        "No account?": "アカウントがありませんか？",
+        "Forgot password?": "パスワードをお忘れですか？"
+    },
+    "RegisterForm": {
+        "Already have an account?": "すでにアカウントをお持ちですか？",
+        "Confirm password": "パスワードを確認"
+    },
+    "Sidebar": {
+        "Home": "ホーム",
+        "Workspaces": "ワークスペース",
+        "Settings": "設定",
+        "General": "一般",
+        "Dark mode": "ダークモード",
+        "Light mode": "ライトモード"
+    },
+    "Workspace": {
+        "Create workspace": "ワークスペースを作成",
+        "Workspace name": "ワークスペース名",
+        "Workspace description": "ワークスペースは、作業を異なるコンテキストに分けるためのエリアです。 異なるプロジェクトやタスク用に複数のワークスペースを持つことができます。 （例：個人、仕事、プロジェクトA、プロジェクトB）",
+        "Delete workspace": "ワークスペースを削除",
+        "Edit workspace": "ワークスペースを編集",
+        "Change Workspace Name": "ワークスペース名を変更",
+        "Delete Workspace description": "ワークスペースを削除すると元に戻すことはできません。 確認するためにワークスペースの名前を入力してください"
+    },
+    "Column": {
+        "Delete column": "列を削除",
+        "Edit column": "列を編集",
+        "Add column": "列を追加"
+    },
+    "Card": {
+        "Add card": "カードを追加",
+        "Delete card": "カードを削除",
+        "Edit card": "カードを編集"
+    }
+}

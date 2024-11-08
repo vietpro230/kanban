@@ -1,0 +1,70 @@
+{
+    "Message": {
+        "User created successfully": "User created successfully",
+        "Failed to create user": "Failed to create user",
+        "Login successful": "Login successful",
+        "Invalid email or password": "Invalid email or password",
+        "Failed to login": "Failed to login",
+        "Workspace name is required": "Workspace name is required",
+        "Workspace created successfully": "Workspace created successfully",
+        "Workspace updated successfully": "Workspace updated successfully",
+        "Workspace deleted successfully": "Workspace deleted successfully",
+        "Failed to create workspace": "Failed to create workspace",
+        "Failed to update workspace": "Failed to update workspace",
+        "Failed to delete workspace": "Failed to delete workspace",
+        "Please enter the workspace name": "Please enter the workspace name",
+        "Workspace name does not match": "Workspace name does not match"
+    },
+    "Common": {
+        "Home": "Home",
+        "Logout": "Logout",
+        "Sign in": "Sign in",
+        "Register": "Register",
+        "Email": "Email",
+        "Password": "Password",
+        "Or": "Or",
+        "Sign in with": "Sign in with",
+        "Add": "Add",
+        "Update": "Update",
+        "Delete": "Delete",
+        "Cancel": "Cancel",
+        "Share": "Share",
+        "Export": "Export",
+        "Link copied to clipboard": "Link copied to clipboard"
+    },
+    "LoginForm": {
+        "No account?": "No account?",
+        "Forgot password?": "Forgot password?"
+    },
+    "RegisterForm": {
+        "Already have an account?": "Already have an account?",
+        "Confirm password": "Confirm password"
+    },
+    "Sidebar": {
+        "Home": "Home",
+        "Workspaces": "Workspaces",
+        "Settings": "Settings",
+        "General": "General",
+        "Dark mode": "Dark mode",
+        "Light mode": "Light mode"
+    },
+    "Workspace": {
+        "Create workspace": "Create workspace",
+        "Workspace name": "Workspace name",
+        "Workspace description": "A workspace is an area to separate your work into different contexts. You can have multiple workspaces for different projects or tasks. (e.g. Personal, Work, Project A, Project B)",
+        "Delete workspace": "Delete workspace",
+        "Edit workspace": "Edit workspace",
+        "Change Workspace Name": "Change Workspace Name",
+        "Delete Workspace description": "Deleting a workspace is irreversible. Please type the name of the workspace to confirm"
+    },
+    "Column": {
+        "Delete column": "Delete column",
+        "Edit column": "Edit column",
+        "Add column": "Add column"
+    },
+    "Card": {
+        "Add card": "Add card",
+        "Delete card": "Delete card",
+        "Edit card": "Edit card"
+    }
+}
